@@ -19,7 +19,7 @@
 
 ⚡ Fun fact: I play the ukulele 🎶
 
-My website: https://myweb.ttu.edu/huyenngu
+My website: [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/)
 
 Follow me on twitter: [@huyendoesstuff](https://twitter.com/huyendoesstuff).
 
