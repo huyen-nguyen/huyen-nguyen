@@ -5,9 +5,9 @@
 
 
 
-🔭 I’m currently working on Interactive Data Visualization (Vis) and Visual Analytics using D3.js for web-based visualizations, supporting the understanding and insight discovery of quantitative and qualitative data.
+🔭 I’m currently working on **Interactive Data Visualization** (Vis) and **Visual Analytics** using D3.js for web-based visualizations, supporting the understanding and insight discovery of quantitative and qualitative data.
 
-🌱 I’m currently learning to build a template for event detection mechanisms in visualizing time-series data.
+🌱 I’m currently learning to build a *cross-domain template* for **event detection mechanisms** in time-series data visualization.
 
 👯 I’m looking to collaborate on interdisciplinary research and methodology in Vis.
 
