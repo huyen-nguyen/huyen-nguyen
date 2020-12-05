@@ -21,3 +21,10 @@
 
 Follow me on twitter: [@huyendoesstuff](https://twitter.com/huyendoesstuff).
 
+![](https://komarev.com/ghpvc/?username=huyen-nguyen)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=huyen-nguyen&show_icons=true" alt="my github stats" width="420"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyen-nguyen&layout=compact" alt="my top languages" height="165">
+</p>
