@@ -11,17 +11,11 @@
 
 👯 I’m looking to collaborate on interdisciplinary research and methodology in Vis.
 
-💬 Ask me about web-based interactive visualization. It’s so fun to work with!
-
 😄 Pronouns: she/her
-
-⚡ Fun fact: I play the ukulele 🎶
 
 📫 How to reach me: huyen.nguyen@ttu.edu • My website: [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/).
 
 Follow me on twitter: [@huyendoesstuff](https://twitter.com/huyendoesstuff).
-
-![](https://komarev.com/ghpvc/?username=huyen-nguyen)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=huyen-nguyen&show_icons=true" alt="my github stats" width="420"/>
