@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Huyen](https://myweb.ttu.edu/huyenngu/) 👋
 
 <!--
 **huyen-nguyen/huyen-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,4 +15,7 @@
 
 📫 How to reach me: huyen.nguyen@ttu.edu • My website: [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/).
 
-Follow me on twitter: [@huyendoesstuff](https://twitter.com/huyendoesstuff).
+<a href="https://twitter.com/huyendoesstuff">
+  <img alt="Huyen Nguyen | Twitter" width="22px" src="https://raw.githubusercontent
+  .com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg" /> @huyendoesstuff
+</a> 
