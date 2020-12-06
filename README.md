@@ -17,5 +17,5 @@
 
 <a href="https://twitter.com/huyendoesstuff">
   <img alt="Huyen Nguyen | Twitter" width="21px" src="https://raw.githubusercontent
-  .com/huyen-nguyen/huyen-nguyen/master/assets/twitter10.svg" /> @huyendoesstuff
+  .com/huyen-nguyen/huyen-nguyen/master/assets/twitter-ico.svg" /> @huyendoesstuff
 </a> 
