@@ -16,6 +16,5 @@
 📫 How to reach me: huyen.nguyen@ttu.edu • My website: [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/).
 
 <a href="https://twitter.com/huyendoesstuff">
-  <img alt="Huyen Nguyen | Twitter" width="22px" src="https://raw.githubusercontent
-  .com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg" /> @huyendoesstuff
+  <img alt="Huyen Nguyen | Twitter" width="22px" src="https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg" style="vertical-align: top;max-width:100%;"/> @huyendoesstuff
 </a> 
