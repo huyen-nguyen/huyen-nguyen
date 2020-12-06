@@ -16,9 +16,3 @@
 📫 How to reach me: huyen.nguyen@ttu.edu • My website: [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/).
 
 Follow me on twitter: [@huyendoesstuff](https://twitter.com/huyendoesstuff).
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huyen-nguyen&show_icons=true" alt="my github stats" width="420"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huyen-nguyen&layout=compact" alt="my top languages" height="165">
-</p>
