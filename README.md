@@ -13,7 +13,7 @@
 
 😄 Pronouns: she/her
 
-📫 How to reach me: huyen.nguyen@ttu.edu • My website: [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/), my blog is at [huyen-nguyen.github.io](https://huyen-nguyen.github.io/)
+🌐 My website is at [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/), my blog is at [huyen-nguyen.github.io](https://huyen-nguyen.github.io/) -- soon to be merged :)
 
 <a href="https://twitter.com/huyendoesstuff">
   <img alt="Huyen Nguyen | Twitter" width="21px" src="https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg"/> @huyendoesstuff
