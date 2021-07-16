@@ -11,8 +11,6 @@
 
 👯 I’m looking to collaborate on interdisciplinary research and methodology in Vis.
 
-😄 Pronouns: she/her
-
 🌐 My website is at [myweb.ttu.edu/huyenngu](https://myweb.ttu.edu/huyenngu/)
 
 <a href="https://twitter.com/huyendoesstuff">
