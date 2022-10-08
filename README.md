@@ -17,6 +17,3 @@
   <img alt="Huyen Nguyen | Twitter" width="21px" src="https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg"/> @huyendoesstuff
 </a>
 
-[./.](https://www.youtube.com/watch?v=Q04sKyZsUKo&ab_channel=nevsky.programming)
-
-
