@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on interdisciplinary research and methodology in Vis.
 
-🌐 My website is at [huyennguyen.com](https://huyennguyen.com)
+🌐  [huyennguyen.com](https://huyennguyen.com)
 
 <a href="https://twitter.com/huyendoesstuff">
   <img alt="Huyen Nguyen | Twitter" width="21px" src="https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg"/> @huyendoesstuff
