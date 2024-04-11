@@ -9,7 +9,7 @@
 
 🎯 My work involves developing visualization systems to help scientists efficiently explore and interact with genomics and nucleomics data, supporting sense-making and decision-making in the biomedical domain.
 
-🍁 When I don't visualize things, I often like to read and play the ukulele.
+🍁 When I don't visualize things, I often read and play the ukulele.
 
 🌐  [huyennguyen.com](https://huyennguyen.com)
 
