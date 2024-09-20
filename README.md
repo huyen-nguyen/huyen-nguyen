@@ -5,7 +5,7 @@
 
 
 
-🌱 I’m a Research Fellow in Biomedical Informatics @ Harvard Medical School. 
+🌱 I’m a Postdoctoral Research Fellow in Biomedical Informatics @ Harvard Medical School. 
 
 🎯 My work involves developing visualization systems to help scientists efficiently explore and interact with genomics and nucleomics data, supporting sense-making and decision-making in the biomedical domain.
 
