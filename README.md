@@ -7,7 +7,7 @@
 
 🌱 I’m a Postdoctoral Research Fellow in Biomedical Informatics @ Harvard Medical School. 
 
-🎯 My work involves developing visualization systems to help scientists efficiently explore and interact with genomics and nucleomics data, supporting sense-making and decision-making in the biomedical domain.
+🎯 Data visualization. Genomics and Biomedical Informatics.
 
 🍁 When I don't visualize things, I often read and play the ukulele.
 
