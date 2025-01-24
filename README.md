@@ -13,7 +13,3 @@
 
 🌐  [huyennguyen.com](https://huyennguyen.com)
 
-<a href="https://twitter.com/huyendoesstuff">
-  <img alt="Huyen Nguyen | Twitter" width="20px" src="https://raw.githubusercontent.com/huyen-nguyen/huyen-nguyen/master/assets/twitter.svg"/>@huyendoesstuff
-</a>
-
