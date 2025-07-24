@@ -4,7 +4,7 @@
 <!--
 **huyen-nguyen/huyen-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-I like to make visualizations and create platforms that help people make their own visualizations. When I’m not visualizing data, I enjoy looking at plants and flowers on my runs. Currently working as a Postdoctoral Research Fellow in Biomedical Informatics at Harvard Medical School. 
+I like to make visualizations and create platforms that help people make their own visualizations. Currently working as a Postdoctoral Research Fellow in Biomedical Informatics at Harvard Medical School. 
 
 
 [huyennguyen.com](https://huyennguyen.com) <span>&nbsp;</span>•<span>&nbsp;</span> `data visualization` <span>&nbsp;</span> `genomics` <span>&nbsp;</span> `biomedical informatics`
